@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GameniteApp</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_share">Share</string>
+    <string name="gamenite_share">Gamenite Application</string>
+    <string name="share_message">This app is for sharing list games populer in PC and Console</string>
+</resources>
